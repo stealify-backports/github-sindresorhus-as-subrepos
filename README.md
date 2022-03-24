@@ -1,4 +1,7 @@
-# github-sindresorhus-as-subrepos
+# @deprecated github-sindresorhus-as-subrepos
+He does not like Typedef in JS so he will never merge our changes so we do not need to keep backward compatible how ever we will migrate his code to stealify/os/packages for the first iteration and after that maybe into other repos we will delete the backport forks and go with subrepo clones. Directly from him. 
+
+## Old Readme
 This is a special case we take all repos from that org as monorepo to apply patches faster
 
 It is one of the biggest ECMAScript CodeBases in the Ecosystem from a fulltime openSourcCreator.
